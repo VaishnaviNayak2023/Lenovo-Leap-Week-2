@@ -12,6 +12,7 @@ advanced front-end technologies, including semantic HTML5, modern CSS3
 (Flexbox, Grid, transitions) for dynamic behavior.
 
 2. Deliverables
+   
 a. Project Documentation
 Introduction to the project and technologies used.
 System requirements (browser, device compatibility).
